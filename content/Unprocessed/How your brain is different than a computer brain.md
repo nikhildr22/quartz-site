@@ -1,0 +1,3 @@
+But even should such a machine be built, it would lack an “==operator==.” A computer does not have a forebrain, nor does it have an “I.” It cannot pose problems to itself. It has no imagination and cannot set goals for itself. It cannot determine which goals are worthwhile and which are not. It has no emotions. It cannot “feel.” It works only on new data fed to it by an operator, by feedback data it secures from its own “sense organs” and from information previously stored.
+
+[[How Your Brain Finds Answers to Problems]]

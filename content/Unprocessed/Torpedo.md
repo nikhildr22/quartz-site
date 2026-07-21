@@ -1,0 +1,1 @@
+The torpedo accomplishes its goal _by going forward_, _making errors_, and _continually correcting them_. By a series of zigzags it literally gropes its way to the goal.

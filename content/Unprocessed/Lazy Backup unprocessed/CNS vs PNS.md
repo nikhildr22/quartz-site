@@ -1,0 +1,6 @@
+retinas, your brain proper, and your spinal cord make up the central nervous system.
+
+The primary purpose of the CNS is to organize and analyze information. Nervous system impulses run to and from the brain via the spinal cord. Different areas of the brain process sensory and motor information, allowing us to observe and react to our environment. The central purpose of the PNS is to follow the commands of the CNS. Neurons in the PNS gather sensory information from the environment and relay it to the CNS. After the CNS processes the information, the PNS responds to its commands by changing motor output.
+## Basic Structures
+
+The CNS consists of the brain and spinal cord, while the PNS includes all other nervous system tissue. All sensory receptors, sensory neurons and motor neurons are part of the PNS. The bones of the skull and spinal vertebrae encase all CNS neurons. Neurons in the PNS are not encased in bone; rather, they travel through or lie on top of muscle, organ and skin tissue. Groups of neurons form in both the CNS and the PNS. In the CNS, a group of neurons is called a nucleus. In the PNS, a group of cell bodies is known as a ganglion, while a bundle of neuron tracts is called a nerve.

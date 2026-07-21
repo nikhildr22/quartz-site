@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"file","file":"Revamp/Obsidian Workflow.md","id":"611bd827c9fc0137","x":573,"y":-392,"width":483,"height":400,"color":"6"},
+		{"type":"text","text":"Google Keep as Inbox\n","id":"ecf16f26db9a99aa","x":-135,"y":-280,"width":375,"height":88,"color":"3"},
+		{"type":"text","text":"Obsidian as Second Brain","id":"6cda1a95e82d17e2","x":-135,"y":-151,"width":375,"height":66,"color":"6"},
+		{"type":"text","text":"Notion for Planning and Brain-storming","id":"2b21afff647c99d4","x":-135,"y":-40,"width":375,"height":80,"color":"#ffffff"},
+		{"type":"text","text":"Google Calendar for Scheduling","id":"efe307d8cfc5060c","x":-135,"y":80,"width":375,"height":81,"color":"3"},
+		{"type":"text","text":"Knowledge management","id":"f1da9d9830c8ed54","x":-580,"y":-156,"width":232,"height":96},
+		{"type":"file","file":"Revamp/Google Keep Workflow.md","id":"79ea873d4eb94dab","x":420,"y":-780,"width":250,"height":325,"color":"3"},
+		{"type":"file","file":"Revamp/Notion Workflow.md","id":"c07e7b92e42e6f53","x":573,"y":121,"width":358,"height":239,"color":"#ffffff"},
+		{"type":"text","text":"Google Sheets for Finances","id":"e628d1b87c1607a6","x":-135,"y":228,"width":375,"height":76},
+		{"type":"text","text":"Career Prep","id":"250aa2535af5ba09","x":1080,"y":360,"width":250,"height":60},
+		{"type":"text","text":"Household chores","id":"4008945fe0310ac4","x":1080,"y":211,"width":250,"height":60},
+		{"type":"text","text":"Outfit management","id":"b224ddd90da8ddb8","x":1080,"y":80,"width":250,"height":60},
+		{"type":"text","text":"Mind Expansion","id":"16a977ba61573659","x":1080,"y":480,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9dc156435faca016","fromNode":"f1da9d9830c8ed54","fromSide":"right","toNode":"ecf16f26db9a99aa","toSide":"left"},
+		{"id":"b433845789a14a3f","fromNode":"f1da9d9830c8ed54","fromSide":"right","toNode":"6cda1a95e82d17e2","toSide":"left"},
+		{"id":"ce15e4f74c7b82eb","fromNode":"f1da9d9830c8ed54","fromSide":"right","toNode":"2b21afff647c99d4","toSide":"left"},
+		{"id":"71b92dd741a5c582","fromNode":"f1da9d9830c8ed54","fromSide":"right","toNode":"efe307d8cfc5060c","toSide":"left"},
+		{"id":"a4565c039da5811d","fromNode":"ecf16f26db9a99aa","fromSide":"right","toNode":"79ea873d4eb94dab","toSide":"left"},
+		{"id":"7a08be9270ba7d7b","fromNode":"6cda1a95e82d17e2","fromSide":"right","toNode":"611bd827c9fc0137","toSide":"left"},
+		{"id":"d202c685ec769366","fromNode":"2b21afff647c99d4","fromSide":"right","toNode":"c07e7b92e42e6f53","toSide":"left"},
+		{"id":"a2b7150c2daeb4ca","fromNode":"c07e7b92e42e6f53","fromSide":"right","toNode":"b224ddd90da8ddb8","toSide":"left"},
+		{"id":"bc7b1cc6a4cbd129","fromNode":"f1da9d9830c8ed54","fromSide":"right","toNode":"e628d1b87c1607a6","toSide":"left"}
+	]
+}

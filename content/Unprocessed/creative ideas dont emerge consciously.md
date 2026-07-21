@@ -1,0 +1,5 @@
+_creative ideas are not consciously thought out by forebrain thinking, but come automatically, spontaneously, and somewhat like a bolt out of the blue, when the conscious mind has let go of the problem and is engaged in thinking of something else. These creative ideas do not come willy-nilly without some preliminary conscious thought about the problem. All the evidence points to the conclusion that in order to receive an “inspiration” or a “hunch,” the person must first of all be intensely interested in solving a particular problem, or securing a particular answer. He must think about it consciously, gather all the information he can on the subject, consider all the possible courses of action. And above all, he must have a burning desire to solve the problem._
+
+March 13, 2022
+
+[103](http://play.google.com/books/reader?printsec=frontcover&output=reader&id=SK8ILQAAAEAJ&source=books-notes-export&pg=GBS.PA103.w.0.0.0.1)

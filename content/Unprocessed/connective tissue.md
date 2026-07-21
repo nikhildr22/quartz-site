@@ -1,0 +1,1 @@
+Connective tissue is the stuff that surrounds the neural stuff and the muscular stuff, although it's all kind of weaved together and braided together in complicated ways

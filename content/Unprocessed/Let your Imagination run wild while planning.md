@@ -1,0 +1,7 @@
+_If we wish our trains of ideation and volition to be copious and varied and effective, we must form the habit of freeing them from the inhibitive influence of reflection upon them, of egoistic preoccupation about their results. Such a habit, like other habits, can be formed. Prudence and duty and self-regard, emotions of ambition and emotions of anxiety, have, of course, a needful part to play in our lives. But confine them as far as possible to the occasions when you are making your general resolutions and deciding on your plans of campaign, and keep them out of the details. When once a decision is reached and execution is the order of the day, dismiss absolutely all responsibility and care about the outcome. Unclamp, in a word, your intellectual and practical machinery, and let it run free; and the service it will do you will be twice as good._
+
+Dont be too Careful about the execution. Relax and make your moves. It should not be confused with being careless all the time. Set a goal. Define targets. Let your creative mechanism guide you for those targets.
+
+March 13, 2022
+
+[102](http://play.google.com/books/reader?printsec=frontcover&output=reader&id=SK8ILQAAAEAJ&source=books-notes-export&pg=GBS.PA102.w.0.0.0.1)

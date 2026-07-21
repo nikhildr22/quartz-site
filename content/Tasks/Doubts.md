@@ -1,0 +1,4 @@
+```dataview
+Table from #doubt 
+
+```

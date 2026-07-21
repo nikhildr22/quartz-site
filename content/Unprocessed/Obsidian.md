@@ -1,0 +1,2 @@
+- `shift + 6` --> link specific part of the notes
+- 

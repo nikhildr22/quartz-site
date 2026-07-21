@@ -1,0 +1,9 @@
+- performance bonus?
+- stock options
+- free meals, vouchers?
+- mobile/internet
+- travel reimbursements
+- allowances
+- work culture
+- WFH reimbursements 
+- Paid leaves

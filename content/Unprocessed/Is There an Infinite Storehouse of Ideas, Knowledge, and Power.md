@@ -1,0 +1,3 @@
+Many great thinkers of all ages have believed that man’s “stored information” is not limited to his own memories of past experiences and learned facts. “There is one mind common to all individual men,” said Emerson, who compared our individual minds to the inlets in an ocean of universal mind.
+
+Edison believed that he got some of his ideas from a source outside himself. Once, when complimented for a creative idea, he disclaimed credit, saying that “ideas are in the air,” and if he had not discovered it, someone else would have.

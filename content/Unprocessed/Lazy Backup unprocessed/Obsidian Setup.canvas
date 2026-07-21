@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"94cb73bd817be1b0","x":-429,"y":-153,"width":250,"height":321,"color":"6","type":"file","file":"Obsidian Plugins.md"},
+		{"id":"0848dde3afa6202a","x":-139,"y":-360,"width":168,"height":50,"color":"6","type":"file","file":"Obsidian Master.md"}
+	],
+	"edges":[
+		{"id":"c7a5764dc172f954","fromNode":"0848dde3afa6202a","fromSide":"bottom","toNode":"94cb73bd817be1b0","toSide":"top","color":"2"}
+	]
+}

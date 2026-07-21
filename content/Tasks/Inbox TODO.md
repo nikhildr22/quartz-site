@@ -1,0 +1,4 @@
+- [ ] Research quickadd plugin
+- [ ] playing cards logic for problem solving
+- [ ] Chess logic for problem solving
+- [ ] 

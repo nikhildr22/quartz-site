@@ -1,0 +1,8 @@
+STARTanki
+Basic
+
+
+Back: 
+
+
+ENDanki

@@ -1,0 +1,13 @@
+**1.** Your built-in Success Mechanism must have a goal or “target.” This goal, or target, must be conceived of as “already in existence—now” either in actual or potential form. It operates by either (1) steering you to a goal already in existence or (2) “discovering” something already in existence.
+
+**2.** The automatic mechanism is teleological, that is, it operates or must be oriented to “end results” goals. Do not be discouraged because the “means whereby” may not be apparent. It is the function of the automatic mechanism to supply the means whereby when you supply the goal. Think in terms of the end result, and the means whereby will often take care of themselves.
+
+The means by which your Success Mechanism works often take care of themselves and do so effortlessly when you supply the goal to your brain. The precise action steps will come to you without stress, tension, or worry about how you are going to accomplish the result you seek. Many people make the mistake of interfering with their Success Mechanism by demanding a how before a goal is clearly established. After you’ve formed a mental image of the goal you seek to create, the how will come to you—not before. Remain calm and relaxed and the answers will arrive. Any attempt to force the ideas to come will not work. As Brian Tracy wrote, “In all mental workings, effort defeats itself.”
+
+**3.** Do not be afraid of making mistakes, or of temporary failures. All servo-mechanisms achieve a goal by negative feedback, or by going forward, making mistakes, and immediately correcting course.
+
+description
+
+**4.** Skill learning of any kind is accomplished by trial and error, mentally correcting aim after an error, until a “successful” motion, movement, or performance has been achieved. After that, further learning, and continued success, is accomplished _by forgetting the past errors_, _and remembering the successful response_, so that it can be imitated.
+
+**5.** You must learn to trust your Creative Mechanism to do its work and not “jam it” by becoming too concerned or too anxious as to whether it will work or not, or by attempting to force it by too much conscious effort. You must “let it” work, rather than “make it” work. This trust is necessary because your Creative Mechanism operates below the level of consciousness, and you cannot “know” what is going on beneath the surface. Moreover, its nature is to operate _spontaneously_ according to _present need_. Therefore, you have no guarantees in advance. It comes into operation _as you act_ and as you place a demand on it by your actions. You must not wait to act until you have proof—you must act as if it is there, and it will come through. “Do the thing and you will have the power,” said Emerson.
